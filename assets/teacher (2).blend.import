@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://h7o15p42u4ij"
-path="res://.godot/imported/demonspuzzleclassroom.blend-632ba76cf5d204510faf888fe8ba3bcb.scn"
+uid="uid://01snx8wieyvu"
+path="res://.godot/imported/teacher (2).blend-c4d61b407d5257f73f49587fd10d27d2.scn"
 
 [deps]
 
-source_file="res://assets/demonspuzzleclassroom.blend"
-dest_files=["res://.godot/imported/demonspuzzleclassroom.blend-632ba76cf5d204510faf888fe8ba3bcb.scn"]
+source_file="res://assets/teacher (2).blend"
+dest_files=["res://.godot/imported/teacher (2).blend-c4d61b407d5257f73f49587fd10d27d2.scn"]
 
 [params]
 
