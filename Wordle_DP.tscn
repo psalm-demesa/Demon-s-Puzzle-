@@ -1,15 +1,15 @@
-[gd_scene load_steps=2 format=3 uid="uid://b0a2gcumw0spd"]
+[gd_scene load_steps=2 format=3 uid="uid://k4woun8tukgp"]
 
-[ext_resource type="Script" path="res://game.gd" id="1_onx1n"]
+[ext_resource type="Script" path="res://game.gd" id="1_mbsd3"]
 
 [node name="Game" type="Node2D"]
-script = ExtResource("1_onx1n")
+script = ExtResource("1_mbsd3")
 
 [node name="GridContainer" type="GridContainer" parent="."]
-offset_left = 89.0
-offset_top = 48.0
-offset_right = 527.0
-offset_bottom = 546.0
+offset_left = 53.0
+offset_top = 107.0
+offset_right = 669.0
+offset_bottom = 723.0
 columns = 5
 
 [node name="Button1" type="Button" parent="GridContainer"]
