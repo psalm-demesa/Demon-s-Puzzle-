@@ -1,8 +1,10 @@
-[gd_scene load_steps=2 format=3 uid="uid://bdelivcksbflj"]
+[gd_scene load_steps=3 format=3 uid="uid://bdelivcksbflj"]
 
 [ext_resource type="PackedScene" uid="uid://btqalw641mjfv" path="res://assets/Walking.fbx" id="1_gqxei"]
+[ext_resource type="Script" uid="uid://ha38e6b3ceif" path="res://teacher.gd" id="2_00oqr"]
 
 [node name="Walking" instance=ExtResource("1_gqxei")]
+script = ExtResource("2_00oqr")
 
 [node name="Skeleton3D" parent="." index="0"]
 bones/0/position = Vector3(8.01374e-05, 0.0200739, -0.000141787)
