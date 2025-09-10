@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://chhb667uchv3u"
-path="res://.godot/imported/hands_demonspuzzle.glb-69efeab89f46032299e049fc20fb3f0a.scn"
+uid="uid://cvdsj8xtrltke"
+path="res://.godot/imported/Phone_demonspuzzle.glb-3e1cebefcdd7f128a7012568fe6a3fa0.scn"
 
 [deps]
 
-source_file="res://hands_demonspuzzle.glb"
-dest_files=["res://.godot/imported/hands_demonspuzzle.glb-69efeab89f46032299e049fc20fb3f0a.scn"]
+source_file="res://assets/Phone_demonspuzzle.glb"
+dest_files=["res://.godot/imported/Phone_demonspuzzle.glb-3e1cebefcdd7f128a7012568fe6a3fa0.scn"]
 
 [params]
 
@@ -17,8 +17,6 @@ nodes/root_type=""
 nodes/root_name=""
 nodes/apply_root_scale=true
 nodes/root_scale=1.0
-nodes/import_as_skeleton_bones=false
-nodes/use_node_type_suffixes=true
 meshes/ensure_tangents=true
 meshes/generate_lods=true
 meshes/create_shadow_meshes=true
@@ -30,7 +28,6 @@ animation/import=true
 animation/fps=30
 animation/trimming=false
 animation/remove_immutable_tracks=true
-animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
 gltf/naming_version=1

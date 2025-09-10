@@ -1,15 +1,17 @@
-[gd_scene load_steps=2 format=3 uid="uid://k4woun8tukgp"]
+[gd_scene load_steps=2 format=3 uid="uid://cuu7catj7juki"]
 
-[ext_resource type="Script" path="res://game.gd" id="1_mbsd3"]
+[ext_resource type="Script" path="res://scripts/game.gd" id="1_lpwfi"]
 
 [node name="Game" type="Node2D"]
-script = ExtResource("1_mbsd3")
+script = ExtResource("1_lpwfi")
 
 [node name="GridContainer" type="GridContainer" parent="."]
-offset_left = 53.0
-offset_top = 107.0
-offset_right = 669.0
-offset_bottom = 723.0
+offset_left = 38.0
+offset_top = 56.0
+offset_right = 678.0
+offset_bottom = 696.0
+theme_override_constants/h_separation = 10
+theme_override_constants/v_separation = 10
 columns = 5
 
 [node name="Button1" type="Button" parent="GridContainer"]

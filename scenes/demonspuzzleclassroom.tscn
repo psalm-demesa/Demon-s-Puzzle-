@@ -2,7 +2,7 @@
 
 [ext_resource type="PackedScene" uid="uid://c2iqowr61qgdp" path="res://assets/demonspuzzleclassroom.glb" id="1_p3tnn"]
 [ext_resource type="PackedScene" uid="uid://drqr5y1nhal0l" path="res://scenes/player.tscn" id="2_25xru"]
-[ext_resource type="PackedScene" uid="uid://bdelivcksbflj" path="res://teacher.tscn" id="3_buklb"]
+[ext_resource type="PackedScene" uid="uid://bdelivcksbflj" path="res://scenes/teacher.tscn" id="3_buklb"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_25xru"]
 
